@@ -1,6 +1,6 @@
 # Ridge Regression & SVM Classification Project 
 
-This repository contains my submission for Assignment 1 of the **CITS5508 Machine Learning** unit at the University of Western Australia. The assignment involves an end-to-end machine learning project consisting of both regression and classification tasks, implemented and documented in a single Jupyter Notebook.
+This repository contains my submission for my research project for the **CITS5508 Machine Learning** unit at the University of Western Australia. The research involves an end-to-end machine learning project consisting of both regression and classification tasks, implemented and documented in a single Jupyter Notebook.
 
 ## 📁 File
 
